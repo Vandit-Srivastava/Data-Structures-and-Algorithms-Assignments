@@ -1,5 +1,5 @@
 # Data-Structures-and-Algorithms-Assignments
-I have uploaded the python code for 5 projects that I did in my 2022 spring semester under the course, "DATA STRUCTURES AND ALGORITHMS' at IIT-Delhi.
+I have uploaded the python code for 5 projects that I did in my 2022 fall semester under the course, "DATA STRUCTURES AND ALGORITHMS' at IIT-Delhi.
 
 1)Used Stacks to create a program that takes a drone command P(string) as input and outputs the final position of the drone after it has executed its command P and the total distance travelled by the drone in this process. O(n) time
 
